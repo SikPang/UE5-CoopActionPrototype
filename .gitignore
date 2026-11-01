@@ -20,3 +20,12 @@ Plugins/**/Intermediate/
 # OS
 Thumbs.db
 .DS_Store
+
+# IDE - Rider / Xcode / VS Code
+.idea/
+.vscode/
+*.xcodeproj
+*.xcworkspace
+*.code-workspace
+xcuserdata/
+*.xcuserstate
