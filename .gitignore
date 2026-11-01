@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Unreal generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Plugin generated
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# OS
+Thumbs.db
+.DS_Store
